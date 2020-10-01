@@ -1,0 +1,26 @@
+<pelis>
+    <peli>
+        <titulo>Una nueva esperanza</titulo>
+        <ano>1977</ano>
+        <duracion>100</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>El imperio contraataca</titulo>
+        <ano>1980</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>El retorno del Jedi</titulo>
+        <ano>1983</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>El ultmo Jedi</titulo>
+        <ano>2017</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+</pelis>
