@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pelis>
+    <peli>
+        <titulo>Una nueva esperanza</titulo>
+        <ano>1977</ano>
+        <duracion>100</duracion>
+        <actor>Jose Rodriguez</actor>
+    </peli>
+    <peli>
+        <titulo>El imperio contraataca</titulo>
+        <ano>1980</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>El retorno del Jedi</titulo>
+        <ano>1983</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>El ultmo Jedi</titulo>
+        <ano>2017</ano>
+        <duracion>140</duracion>
+        <actor>Mark Hamil</actor>
+    </peli>
+    <peli>
+        <titulo>Titulo de mi peli</titulo>
+        <ano>ano de mi peli</ano>
+        <duracion>130</duracion>
+        <actor>Actor de mi peli</actor>
+    </peli>
+</pelis>
